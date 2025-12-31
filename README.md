@@ -1,3 +1,3 @@
 # laofa
 
-A simple implementation is provided, and some parameters in the code need to be adjusted according to the characteristics of the dataset.
+This provides a simple transfer learning scheme; we recommend adjusting certain modules (including hyperparameters) based on the specific characteristics of your dataset.
