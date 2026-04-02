@@ -1,6 +1,6 @@
 # TSgraph V1.1
 
-We have provided more detailed code for TSgraph (Version 1.1). This is a transfer learning model used for time series classification and prediction.
+We have provided more detailed code for TSgraph (Version 1.6). This is a transfer learning model used for time series classification and prediction.
 
 The versions of the dependencies are as follows:
 python=3.12
